@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XboxWebApi.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "oauth"
+    }
+  }
+}
